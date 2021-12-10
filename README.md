@@ -1,0 +1,2 @@
+# javaPattern
+right star pattern
